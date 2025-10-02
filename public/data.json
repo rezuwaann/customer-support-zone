@@ -1,0 +1,92 @@
+[
+    {
+        "id": 101,
+        "title": "Login Issue",
+        "description": "User unable to log into account with correct credentials.\nThey reported multiple failed attempts despite correct password.",
+        "customer": "Alice Johnson",
+        "status": "Open",
+        "priority": "High Priority",
+        "createdAt": "09/28/2025"
+    },
+    {
+        "id": 102,
+        "title": "Payment Failure",
+        "description": "Payment not going through during checkout.\nThe customer tried with different cards but still failed.",
+        "customer": "David Smith",
+        "status": "In Progress",
+        "priority": "High Priority",
+        "createdAt": "09/28/2025"
+    },
+    {
+        "id": 103,
+        "title": "App Crash",
+        "description": "Mobile app crashes immediately after the new update.\nIssue only appears on iOS devices running version 17.0.",
+        "customer": "Maria Lopez",
+        "status": "Open",
+        "priority": "High Priority",
+        "createdAt": "09/27/2025"
+    },
+    {
+        "id": 104,
+        "title": "Refund Request",
+        "description": "Customer requesting refund for duplicate payment.\nThey claim the payment was charged twice in error.",
+        "customer": "James Wilson",
+        "status": "In Progress",
+        "priority": "Medium Priority",
+        "createdAt": "09/26/2025"
+    },
+    {
+        "id": 105,
+        "title": "Slow Website",
+        "description": "Website performance drops significantly during peak hours.\nUsers experience delays loading product pages.",
+        "customer": "Sophia Brown",
+        "status": "Open",
+        "priority": "Low Priority",
+        "createdAt": "09/25/2025"
+    },
+    {
+        "id": 106,
+        "title": "Account Locked",
+        "description": "Account locked after multiple failed login attempts.\nUser cannot reset password due to missing reset link.",
+        "customer": "Michael Davis",
+        "status": "Open",
+        "priority": "High Priority",
+        "createdAt": "09/25/2025"
+    },
+    {
+        "id": 107,
+        "title": "Shipping Delay",
+        "description": "Order not shipped even after 7 business days.\nCustomer is concerned about missing a gift deadline.",
+        "customer": "Emma Martinez",
+        "status": "In Progress",
+        "priority": "Medium Priority",
+        "createdAt": "09/24/2025"
+    },
+    {
+        "id": 108,
+        "title": "Feature Request",
+        "description": "Customer requesting dark mode in web application.\nThey suggested an option in settings to toggle it.",
+        "customer": "Oliver Thomas",
+        "status": "Open",
+        "priority": "Low Priority",
+        "createdAt": "09/23/2025"
+    },
+    {
+        "id": 109,
+        "title": "Email Not Received",
+        "description": "Verification email not arriving in the user's inbox.\nCustomer already checked spam and promotions folders.",
+        "customer": "Ava White",
+        "status": "In Progress",
+        "priority": "Medium Priority",
+        "createdAt": "09/22/2025"
+    },
+    {
+        "id": 110,
+        "title": "UI Bug",
+        "description": "Profile picture not updating in the dashboard.\nThe issue persists across browsers and devices.",
+        "customer": "William Harris",
+        "status": "Open",
+        "priority": "Low Priority",
+        "createdAt": "09/21/2025"
+    }
+]
